@@ -1,0 +1,42 @@
+id,vertex,address,city,state,zip,deadline,deadlineindicator,deliveredhour,deliveredminute,weight,status,trucknum,loadtime,instructions
+0,0,WGU HUB,,,,,,,,,,,,
+1,1,195 W Oakland Ave,Salt Lake City,UT,84115,10:30 AM,0,,0,21,Hub,,,
+2,2,2530 S 500 E,Salt Lake City,UT,84106,EOD,1,,0,44,Hub,,,
+3,3,233 Canyon Rd,Salt Lake City,UT,84103,EOD,1,,0,2,Hub,,,Can only be on truck 2
+4,4,380 W 2880 S,Salt Lake City,UT,84115,EOD,1,,0,4,Hub,,,
+5,5,410 S State St,Salt Lake City,UT,84111,EOD,1,,0,5,Hub,,,
+6,6,3060 Lester St,West Valley City,UT,84119,10:30 AM,0,,0,88,delayed,,,Delayed on flight---will not arrive to depot until 9:05 am
+7,7,1330 2100 S,Salt Lake City,UT,84106,EOD,1,,0,8,Hub,,,
+8,8,300 State St,Salt Lake City,UT,84103,EOD,1,,0,9,Hub,,,
+9,8,300 State St,Salt Lake City,UT,84103,EOD,1,,0,2,Hub,,,Wrong address listed
+10,9,600 E 900 South,Salt Lake City,UT,84105,EOD,1,,0,1,Hub,,,
+11,10,2600 Taylorsville Blvd,Salt Lake City,UT,84118,EOD,1,,0,1,Hub,,,
+12,11,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,EOD,1,,0,1,Hub,,,
+13,12,2010 W 500 S,Salt Lake City,UT,84104,10:30 AM,0,,0,2,Hub,,,
+14,13,4300 S 1300 E,Millcreek,UT,84117,10:30 AM,0,,0,88,Hub,,,"Must be delivered with 15, 19"
+15,14,4580 S 2300 E,Holladay,UT,84117,9:00 AM,0,,0,4,Hub,,,
+16,14,4580 S 2300 E,Holladay,UT,84117,10:30 AM,0,,0,88,Hub,,,"Must be delivered with 13, 19"
+17,15,3148 S 1100 W,Salt Lake City,UT,84119,EOD,1,,0,2,Hub,,,
+18,16,1488 4800 S,Salt Lake City,UT,84123,EOD,1,,0,6,Hub,,,Can only be on truck 2
+19,17,177 W Price Ave,Salt Lake City,UT,84115,EOD,1,,0,37,Hub,,,
+20,18,3595 Main St,Salt Lake City,UT,84115,10:30 AM,0,,0,37,Hub,,,"Must be delivered with 13, 15"
+21,18,3595 Main St,Salt Lake City,UT,84115,EOD,1,,0,3,Hub,,,
+22,19,6351 South 900 East,Murray,UT,84121,EOD,1,,0,2,Hub,,,
+23,20,100 South 2700 West,Salt Lake City,UT,84118,EOD,1,,0,5,Hub,,,
+24,21,5025 State St,Murray,UT,84107,EOD,1,,0,7,Hub,,,
+25,22,5383 South 900 East #104,Salt Lake City,UT,84117,10:30 AM,0,,0,7,delayed,,,Delayed on flight---will not arrive to depot until 9:05 am
+26,22,5383 South 900 East #104,Salt Lake City,UT,84117,EOD,1,,0,25,Hub,,,
+27,23,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,1,,0,5,Hub,,,
+28,24,2835 Main St,Salt Lake City,UT,84115,EOD,1,,0,7,delayed,,,Delayed on flight---will not arrive to depot until 9:05 am
+29,7,1330 2100 S,Salt Lake City,UT,84106,10:30 AM,0,,0,2,Hub,,,
+30,8,300 State St,Salt Lake City,UT,84103,10:30 AM,0,,0,1,Hub,,,
+31,25,3365 S 900 W,Salt Lake City,UT,84119,10:30 AM,0,,0,1,Hub,,,
+32,25,3365 S 900 W,Salt Lake City,UT,84119,EOD,1,,0,1,delayed,,,Delayed on flight---will not arrive to depot until 9:05 am
+33,2,2530 S 500 E,Salt Lake City,UT,84106,EOD,1,,0,1,Hub,,,
+34,14,4580 S 2300 E,Holladay,UT,84117,10:30 AM,0,,0,2,Hub,,,
+35,23,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,1,,0,88,Hub,,,
+36,26,2300 Parkway Blvd,West Valley City,UT,84119,EOD,1,,0,88,Hub,,,Can only be on truck 2
+37,5,410 S State St,Salt Lake City,UT,84111,10:30 AM,0,,0,2,Hub,,,
+38,5,410 S State St,Salt Lake City,UT,84111,EOD,1,,0,9,Hub,,,Can only be on truck 2
+39,12,2010 W 500 S,Salt Lake City,UT,84104,EOD,1,,0,9,Hub,,,
+40,4,380 W 2880 S,Salt Lake City,UT,84115,10:30 AM,0,,0,45,Hub,,,
